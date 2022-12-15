@@ -1,3 +1,3 @@
 # ProjetosJavaScript
-Projetos SENAC SP
+Projetos Oracle ONE
 Learning JavaScript
